@@ -1,0 +1,16 @@
+D:\code\test0518\test0518\bin\Debug\net5.0\test0518.exe
+D:\code\test0518\test0518\bin\Debug\net5.0\test0518.deps.json
+D:\code\test0518\test0518\bin\Debug\net5.0\test0518.runtimeconfig.json
+D:\code\test0518\test0518\bin\Debug\net5.0\test0518.runtimeconfig.dev.json
+D:\code\test0518\test0518\bin\Debug\net5.0\test0518.dll
+D:\code\test0518\test0518\bin\Debug\net5.0\ref\test0518.dll
+D:\code\test0518\test0518\bin\Debug\net5.0\test0518.pdb
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.csprojAssemblyReference.cache
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.AssemblyInfoInputs.cache
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.AssemblyInfo.cs
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.csproj.CoreCompileInputs.cache
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.dll
+D:\code\test0518\test0518\obj\Debug\net5.0\ref\test0518.dll
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.pdb
+D:\code\test0518\test0518\obj\Debug\net5.0\test0518.genruntimeconfig.cache
