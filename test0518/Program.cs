@@ -6,7 +6,7 @@ namespace test0518
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test!");
+            Console.WriteLine("Test 2!");
             try
             {
                 string testData1 = Console.ReadLine();
